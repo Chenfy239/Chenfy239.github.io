@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.red-pill:hover {
+    background: #d9534f;
+    color: white;
+}
+
+.red-pill {
+    border-radius: 14px;
+    width: auto;
+    height: 28px;
+    margin: 4px;
+    background: white;
+}
+
+.small-img {
+    width: auto;
+    max-height: 165px;
+}
+
+footer {
+    color: grey;
+}
